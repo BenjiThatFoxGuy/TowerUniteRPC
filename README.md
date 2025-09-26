@@ -1,3 +1,6 @@
+# ⚠ This project is deprecated, as Tower Unite introduced its first party rich presence - and it seems to have feature parity with this project.
+
+
 # TowerUniteRPC
 Discord Rich Presence for Tower Unite
 # How to use
